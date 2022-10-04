@@ -1,0 +1,1 @@
+<i class="fa fa-shopping-cart  text-3xl cursor-pointer" aria-hidden="true"></i>
